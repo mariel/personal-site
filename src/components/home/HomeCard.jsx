@@ -47,8 +47,8 @@ function HomeCard() {
         <div className="byline">
           <p>
             swe @{" "}
-            <a href="https://forio.com/" target="_blank" rel="noreferrer">
-              forio
+            <a href="https://bubble.io/" target="_blank" rel="noreferrer">
+              bubble
             </a>
           </p>
         </div>
